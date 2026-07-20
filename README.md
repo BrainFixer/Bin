@@ -1,4 +1,4 @@
-# BrainFilxer Bin
+# BrainFixer Bin
 
 Личный файловый архив для оперативного доступа к публичным ресурсам через GitHub Pages.
 
